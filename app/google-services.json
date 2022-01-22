@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735843246525",
+    "project_id": "fast3-chapter1",
+    "storage_bucket": "fast3-chapter1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735843246525:android:c9e7110229282da28d72d4",
+        "android_client_info": {
+          "package_name": "com.jjhadr.fast3_chapter01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735843246525-igj6ge519i230ojv8ulvfid72719m3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43KsrPKlYQlX29lRF5LQSVLRkXCfrisA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735843246525-igj6ge519i230ojv8ulvfid72719m3jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
